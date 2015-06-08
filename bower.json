@@ -1,0 +1,23 @@
+{
+  "name": "base_custom_bootstrap",
+  "version": "1.0.0",
+  "authors": [
+    "Timothée Clain <timothee.clain@gmail.com>"
+  ],
+  "description": "customize less bootstrap with this base",
+  "keywords": [
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "homepage": "plozion.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
